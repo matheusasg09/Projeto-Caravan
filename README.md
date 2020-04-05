@@ -18,7 +18,7 @@
 
 ## ◾ Projeto
 
-O Bikcraft é um projeto totalmente responsivo feito com HTML, CSS e Javascript puro. O principal intuito era não usar nenhuma biblioteca ou framework para treinar tecnicas de CSS e Javascript.
+O Caravan é um projeto totalmente responsivo feito apenas com Bootstrap 4. O principal intuito treinar e conhecer todos os componentes e ferramentas desta biblioteca.
 
 #### Visitar o site: [Caravan.com](https://bikcraft.com/)
 
