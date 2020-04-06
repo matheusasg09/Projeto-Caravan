@@ -8,8 +8,10 @@
   <img alt="GitHub commits" src="https://badgen.net/github/commits/matheusasg09/Projeto-Caravan">
 
   <img alt="License" src="https://badgen.net/badge/license/MIT/blue">
-  <img alt="License" src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86">
-  <img alt="License" src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">
+  
+  <img  src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86">
+  
+  <img  src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">
 </p>
 
 <p align="center">
