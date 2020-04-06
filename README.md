@@ -2,12 +2,19 @@
   CARAVAN
 </h1>
 
-<p align="center">   
+<p align="center">
+  
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-Caravan">
   
   <a href="https://github.com/matheusasg09/Projeto-Caravan/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-Caravan">
+    <img alt="GitHub last commit" src="https://https://badgen.net/github/commits/matheusasg09/Projeto-Caravan">
   </a>
+  
+  <a href="https://github.com/matheusasg09/Projeto-Caravan/commits/master">
+    <img alt="GitHub last commit" src="https://badgen.net/github/last-commit/matheusasg09/Projeto-Caravan">
+  </a>
+  
+  <img alt="License" src="https://badgen.net/github/stars/matheusasg09/Projeto-Caravan">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -20,7 +27,7 @@
 
 O Caravan é um projeto totalmente responsivo feito apenas com Bootstrap 4. O principal intuito era treinar e conhecer todos os componentes e ferramentas desta biblioteca.
 
-#### Visitar o site: [Caravan.com](https://bikcraft.com/)
+#### Visitar o site: [Caravan.com Offline](https://google.com)
 
 ## ◾ Tecnologias
 
