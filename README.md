@@ -3,11 +3,9 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub last commit" src="https://https://badgen.net/github/commits/matheusasg09/Projeto-Caravan">
-
-  <img alt="GitHub last commit" src="https://badgen.net/github/last-commit/matheusasg09/Projeto-Caravan">
+  <img alt="Stars" src="https://badgen.net/github/stars/matheusasg09/Projeto-Caravan">
   
-  <img alt="License" src="https://badgen.net/github/stars/matheusasg09/Projeto-Caravan">
+  <img alt="GitHub commits" src="https://badgen.net/github/commits/matheusasg09/Projeto-Caravan">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
